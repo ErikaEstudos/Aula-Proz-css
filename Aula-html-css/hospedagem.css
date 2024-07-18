@@ -1,0 +1,21 @@
+ header {
+     padding: 10px 20px;
+
+ }
+
+ header img {
+     height: 60px;
+     border-radius: 18px;
+ }
+
+
+ h1 {
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     font-size: 36px;
+     text-align: center;
+ }
+
+p {
+     margin-left: 10px;
+     text-align: justify;
+ }
